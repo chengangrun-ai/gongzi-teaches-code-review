@@ -6,6 +6,8 @@ An agent skill that reviews a diff for **over-engineering**: which lines can be 
 
 It does not touch correctness bugs, security, or performance. That's a normal review. This one answers a single question: **how much of this code shouldn't exist at all.**
 
+![改动审查：一行一条，只说哪些可以删](screenshots/hero.png)
+
 ## Why it exists
 
 The problem with AI-written code isn't that it's wrong. It's that there's too much of it. One extra abstraction, one extra wrapper, one interface with a single implementation — each looks reasonable on its own. Together they become maintenance cost.
