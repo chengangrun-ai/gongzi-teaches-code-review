@@ -78,6 +78,20 @@ Claude Code 用户把目录放到 `~/.claude/skills/` 下即可。**没有依赖
 - 一个 smoke test 或 `assert` 自检不算膨胀，别指望它帮你删测试。
 - 想退出：说「正常模式」或 `stop ponytail-review`。
 
+## 同系列
+
+<p>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/01-main.png" width="32%" alt="主技能"></a>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-audit"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/03-audit.png" width="32%" alt="整仓审计"></a>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-debt"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/04-debt.png" width="32%" alt="欠账本"></a>
+</p>
+<p>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-gain"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/05-gain.png" width="32%" alt="效果看板"></a>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-help"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/06-help.png" width="32%" alt="速查卡"></a>
+</p>
+
+> 五个配套，一个主张：最好的代码是没写的那行。
+
 ## 致谢
 
 基于 [Ponytail](https://github.com/DietrichGebert/ponytail)（MIT，作者 DietrichGebert）改写，保留了原作者的版权声明（见 `LICENSE`）。

@@ -79,6 +79,20 @@ Or just ask: "is there any over-engineering in this diff?" / "can this code be s
 - A single smoke test or `assert` self-check is the minimum, not bloat. It won't ask you to delete your tests.
 - To exit: say "normal mode" or `stop ponytail-review`.
 
+## The series
+
+<p>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/01-main.png" width="32%" alt="主技能"></a>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-audit"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/03-audit.png" width="32%" alt="整仓审计"></a>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-debt"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/04-debt.png" width="32%" alt="欠账本"></a>
+</p>
+<p>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-gain"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/05-gain.png" width="32%" alt="效果看板"></a>
+  <a href="https://github.com/chengangrun-ai/gongzi-teaches-code-help"><img src="https://raw.githubusercontent.com/chengangrun-ai/gongzi-teaches-code/main/screenshots/06-help.png" width="32%" alt="速查卡"></a>
+</p>
+
+> Five companions, one idea: the best code is the code you never wrote.
+
 ## Credits
 
 Rewritten from [Ponytail](https://github.com/DietrichGebert/ponytail) (MIT, by DietrichGebert). The original copyright notice is preserved in `LICENSE`.
